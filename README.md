@@ -28,3 +28,5 @@ Below are the available commands you can use to interact with the telegram bot:
 
 ### `/removewallet`
 - **Description**: Remove a wallet from your tracked wallets.
+
+- ![image](https://github.com/user-attachments/assets/98604027-71e0-40b6-8c37-f610de5041a2)
