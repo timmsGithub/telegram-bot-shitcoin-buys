@@ -1,0 +1,476 @@
+[
+  {
+    "chatId": 6046677170,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 600000
+    }
+  },
+  {
+    "chatId": 339986173,
+    "group": "5",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 300000
+    }
+  },
+  {
+    "chatId": 6526030165,
+    "group": "1"
+  },
+  {
+    "chatId": 6319006163,
+    "group": "5"
+  },
+  {
+    "chatId": 1400544368,
+    "group": "10"
+  },
+  {
+    "chatId": 762880473,
+    "group": "10"
+  },
+  {
+    "chatId": 6223376100,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 600000,
+      "filterPronoun": "younger",
+      "time": "3h"
+    }
+  },
+  {
+    "chatId": 463055048,
+    "group": "5",
+    "options": {
+      "filterPronoun": "older",
+      "time": "1m",
+      "filterPronounMM": "more",
+      "amountMM": 1
+    }
+  },
+  {
+    "chatId": 482925396,
+    "group": "5"
+  },
+  {
+    "chatId": 6863240669,
+    "group": "1"
+  },
+  {
+    "chatId": 6099519747,
+    "group": "1"
+  },
+  {
+    "chatId": 6026236267,
+    "group": "1"
+  },
+  {
+    "chatId": 6097699001,
+    "group": "5"
+  },
+  {
+    "chatId": 1089594675,
+    "group": "1"
+  },
+  {
+    "chatId": 1502401422,
+    "group": "10"
+  },
+  {
+    "chatId": 1433099040,
+    "group": "1"
+  },
+  {
+    "chatId": 1785961920,
+    "group": "1"
+  },
+  {
+    "chatId": 467526123,
+    "group": "5"
+  },
+  {
+    "chatId": 6269269964,
+    "group": "5",
+    "options": {
+      "filterPronounMM": "more",
+      "amountMM": 50000
+    }
+  },
+  {
+    "chatId": 1103130739,
+    "group": "5"
+  },
+  {
+    "chatId": 2076036459,
+    "group": "5"
+  },
+  {
+    "chatId": 6100177256,
+    "group": "5"
+  },
+  {
+    "chatId": 6422504889,
+    "group": "10"
+  },
+  {
+    "chatId": 1435908284,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 50000
+    }
+  },
+  {
+    "chatId": 1104156937,
+    "group": "5"
+  },
+  {
+    "chatId": 1411862286,
+    "group": "1",
+    "options": {
+      "filterPronoun": "younger",
+      "time": "30d",
+      "filterPronounMM": "less",
+      "amountMM": 600000
+    }
+  },
+  {
+    "chatId": 1737021902,
+    "group": "5",
+    "options": {
+      "filterPronounMM": "more",
+      "amountMM": 1,
+      "filterPronoun": "older",
+      "time": "1m"
+    }
+  },
+  {
+    "chatId": 995920330,
+    "group": "10"
+  },
+  {
+    "chatId": 403664982,
+    "group": "1"
+  },
+  {
+    "chatId": 810711459,
+    "group": "5"
+  },
+  {
+    "chatId": 1433204057,
+    "group": "1"
+  },
+  {
+    "chatId": 2144319948,
+    "group": "1"
+  },
+  {
+    "chatId": 1845792132,
+    "group": "10"
+  },
+  {
+    "chatId": 1727967766,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 600000,
+      "filterPronoun": "younger",
+      "time": "3h"
+    }
+  },
+  {
+    "chatId": 366822314,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 100000
+    }
+  },
+  {
+    "chatId": 1801853095,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 600000
+    }
+  },
+  {
+    "chatId": 1227281763,
+    "group": "10"
+  },
+  {
+    "chatId": 1349407864,
+    "group": "5"
+  },
+  {
+    "chatId": 1794622833,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 600000
+    }
+  },
+  {
+    "chatId": 5836008419,
+    "group": "1"
+  },
+  {
+    "chatId": 5038094982,
+    "group": "10"
+  },
+  {
+    "chatId": 285189709,
+    "group": "5"
+  },
+  {
+    "chatId": 219907507,
+    "group": "1"
+  },
+  {
+    "chatId": 1087929117,
+    "group": "10"
+  },
+  {
+    "chatId": 775331373,
+    "group": "1"
+  },
+  {
+    "chatId": 1770954418,
+    "group": "5"
+  },
+  {
+    "chatId": 476808067,
+    "group": "1"
+  },
+  {
+    "chatId": 5272669923,
+    "group": "10"
+  },
+  {
+    "chatId": 5953628558,
+    "group": "5"
+  },
+  {
+    "chatId": 5872420940,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 600000,
+      "filterPronoun": "younger",
+      "time": "30d"
+    }
+  },
+  {
+    "chatId": 6688589451,
+    "group": "5"
+  },
+  {
+    "chatId": 1941115714,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 100000,
+      "filterPronoun": "younger",
+      "time": "12d"
+    }
+  },
+  {
+    "chatId": 5902456615,
+    "group": "5"
+  },
+  {
+    "chatId": 1715895654,
+    "group": "1"
+  },
+  {
+    "chatId": 1185240390,
+    "group": "1"
+  },
+  {
+    "chatId": 1013170236,
+    "group": "1",
+    "options": {
+      "filterPronoun": "older",
+      "time": "1m",
+      "filterPronounMM": "less",
+      "amountMM": 100000
+    }
+  },
+  {
+    "chatId": 1160171995,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 200000,
+      "filterPronoun": "younger",
+      "time": "30d"
+    }
+  },
+  {
+    "chatId": 1803201620,
+    "group": "5",
+    "options": {
+      "filterPronoun": "younger",
+      "time": "3h",
+      "filterPronounMM": "more",
+      "amountMM": 50000
+    }
+  },
+  {
+    "chatId": 1611427807,
+    "group": "1"
+  },
+  {
+    "chatId": 1690792017,
+    "group": "10"
+  },
+  {
+    "chatId": 441384833,
+    "group": "1"
+  },
+  {
+    "chatId": 6868273629,
+    "group": "1"
+  },
+  {
+    "chatId": 6241277203,
+    "group": "5"
+  },
+  {
+    "chatId": 5466068548,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 300000
+    }
+  },
+  {
+    "chatId": 5055058118,
+    "group": "5"
+  },
+  {
+    "chatId": 1892843563,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 100000
+    }
+  },
+  {
+    "chatId": 1408731113,
+    "group": "1",
+    "options": {
+      "filterPronoun": "younger",
+      "time": "30d"
+    }
+  },
+  {
+    "chatId": 2119333752,
+    "group": "1"
+  },
+  {
+    "chatId": 982855812,
+    "group": "1"
+  },
+  {
+    "chatId": 1627420174,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 100000,
+      "filterPronoun": "younger",
+      "time": "3h"
+    }
+  },
+  {
+    "chatId": 1904344933,
+    "group": "1"
+  },
+  {
+    "chatId": 2089297527,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "less",
+      "amountMM": 200000
+    }
+  },
+  {
+    "chatId": 782957067,
+    "group": "1"
+  },
+  {
+    "chatId": 830052189,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "more",
+      "amountMM": 50000,
+      "filterPronoun": "older",
+      "time": "3h"
+    }
+  },
+  {
+    "chatId": 1453515549,
+    "group": "5"
+  },
+  {
+    "chatId": 643590098,
+    "group": "10",
+    "options": {
+      "filterPronounMM": "more",
+      "amountMM": 600000,
+      "filterPronoun": "younger",
+      "time": "12h"
+    }
+  },
+  {
+    "chatId": 6457047612,
+    "group": "10"
+  },
+  {
+    "chatId": 1811431077,
+    "group": "10"
+  },
+  {
+    "chatId": 2063903420,
+    "group": "10"
+  },
+  {
+    "chatId": 6186646385,
+    "group": "1"
+  },
+  {
+    "chatId": 5124994747,
+    "group": "1"
+  },
+  {
+    "chatId": 1384218282,
+    "group": "10"
+  },
+  {
+    "chatId": 850979430,
+    "group": "1"
+  },
+  {
+    "chatId": 1161210198,
+    "group": "5"
+  },
+  {
+    "chatId": 5900720821,
+    "group": "10"
+  },
+  {
+    "chatId": 1703176615,
+    "group": "10"
+  },
+  {
+    "chatId": 895419553,
+    "group": "1",
+    "options": {
+      "filterPronounMM": "more",
+      "amountMM": 50000
+    }
+  }
+]
